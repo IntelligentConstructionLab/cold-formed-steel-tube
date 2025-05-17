@@ -1,5 +1,7 @@
 # Seismic performance of a novel non-diaphragm joint between concrete-filled cold-formed high-strength square steel tubular columns and composite beams
 
+This repository contains data used for paper "Seismic performance of a novel non-diaphragm joint between concrete-filled cold-formed high-strength square steel tubular columns and composite beams"
+
 ## Authors
 
 Jiangran Guo, Longhui Sun, He Zhao*, Xihan Hu, Letian Hai
